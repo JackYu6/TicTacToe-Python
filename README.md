@@ -1,2 +1,2 @@
 # TicTacToe-Python
-Implementation of a TicTacToe game using python
+Implementation of a TicTacToe game using python.
